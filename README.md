@@ -14,7 +14,7 @@ Building AI solutions that solve real-world problems while exploring the interse
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav_bhadoriya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-bhadoriya-49458426a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vbhadoriya78@gmail.com) 
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="[https://profile-readme-generator.com/assets/snake.svg](https://media.tenor.com/rePDfDWO3XoAAAAd/hacker.gif)" />
 </div>
 
 # 💻 Tech Stack:

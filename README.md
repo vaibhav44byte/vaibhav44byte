@@ -1,97 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=root%40vaibhav%3A~%23+whoami;Vaibhav+Bhadoriya+-+AI+%2F+ML+%2F+Cybersecurity+%2F+Backend;root%40vaibhav%3A~%23+sudo+access_granted+%E2%9C%94" alt="Typing SVG" />
+# Vaibhav Bhadoriya
+### AI/ML · Backend Developer · Cyber Security
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-bhadoriya-49458426a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vbhadoriya78@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/vaibhav_bhadoriya)
 
 </div>
 
 <br/>
 
-```bash
-┌──(vaibhav㉿kali)-[~]
-└─$ cat about_me.txt
-```
+### Interests
+Building AI/ML systems and backend infrastructure that solve real problems. Currently deepening my work in deep learning, MLOps, and LLMs.
 
-```yaml
-Name       : Vaibhav Bhadoriya
-Role       : AI/ML Engineer | Backend Dev | Security Enthusiast
-Status     : Building AI systems that solve real problems
-Currently  : [🚀] Shipping AI-powered applications
-Learning   : [🌱] Deep Learning, MLOps & LLMs
-Open To    : [🤝] AI/ML & Open Source collaborations
-Ask Me     : [💬] Java, Python, ML, DL & Backend
-Contact    : [📫] vbhadoriya78@gmail.com
-```
+<br/>
 
-```bash
-┌──(vaibhav㉿kali)-[~]
-└─$ nmap -sV social_profiles
-```
-
+### Contribution Graph
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=00FF41&labelColor=0d1117)](https://instagram.com/vaibhav_bhadoriya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://linkedin.com/in/vaibhav-bhadoriya-49458426a)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:vbhadoriya78@gmail.com)
-
+<img src="https://ghchart.rshah.org/39d353/vaibhav44byte" alt="Vaibhav's github contribution graph" width="100%"/>
 </div>
 
 <br/>
 
-```bash
-┌──(vaibhav㉿kali)-[~]
-└─$ ls -la tech_stack/
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,gcp,vercel,fastapi,opencv,firebase,mongodb,postgres,mysql,pytorch,sklearn,github&theme=dark&perspective=simple3D" />
-
-</div>
+### What I'm Doing Right Now
+- Shipping AI-powered applications end-to-end
+- Learning deep learning, MLOps & LLM tooling
+- Open to AI/ML and open-source collaborations
 
 <br/>
 
-```bash
-┌──(vaibhav㉿kali)-[~]
-└─$ ./run_stats.sh --verbose
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=vaibhav44byte&theme=matrix&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=39FF14&icon_color=00FF41" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhav44byte&theme=matrix&hide_border=true&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=39FF14" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=vaibhav44byte&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav44byte&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=39FF14&point=ffffff" />
-</div>
-
-<br/>
-
-```bash
-┌──(vaibhav㉿kali)-[~]
-└─$ neofetch --status
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=180&lines=OS%3A+Vaibhav+Bhadoriya+%5BAI%2FML+Build%5D;Uptime%3A+2%2B+years+shipping+code;Shell%3A+Python+3.x+%2F+Java+%2F+C%2B%2B;Packages%3A+PyTorch%2C+FastAPI%2C+OpenCV+%2B+42+more;CPU%3A+Neural+Networks+%40+100%25;Memory%3A+Coffee+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+80%25" alt="Neofetch status" />
-
-</div>
-
-<br/>
-
-```bash
-┌──(vaibhav㉿kali)-[~]
-└─$ echo "connection_terminated" && exit
-```
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=vaibhav44byte&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=0d1117)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
-
-</div>
+### Tech Stack
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)

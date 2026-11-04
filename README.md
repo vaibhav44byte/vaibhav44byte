@@ -24,7 +24,8 @@ Building AI/ML systems and backend infrastructure that solve real problems. Curr
 <br/>
 
 ### What I'm Doing Right Now
-Latest Project -> https://github.com/vaibhav44byte/Coding-Quiz-Automation
+Recent Projects -> https://github.com/vaibhav44byte/Pixel-pet-AI
+                -> https://github.com/vaibhav44byte/Coding-Quiz-Automation
 - Shipping AI-powered applications end-to-end
 - Learning deep learning, MLOps & LLM tooling
 - Open to AI/ML and open-source collaborations
